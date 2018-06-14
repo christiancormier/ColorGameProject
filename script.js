@@ -78,8 +78,10 @@ resetButton.addEventListener("click", function () {
   // change text of button back to new colors
   resetButton.textContent = "New Colors";
 
+
   // remove messagedisplay text by setting it back to nothing
   messageDisplay.textContent = "";
+
 });
 
 
